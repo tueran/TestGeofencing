@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode"> 
+
+    <wpt lat="50.610373" lon="10.691191">
+         <name>Suhl</name>
+	</wpt>
+    <wpt lat="50.976494" lon="11.024978">
+        <name>Erfurt Domplatz</name>
+	</wpt>
+    <wpt lat="50.970664" lon="11.021765">
+        <name>Büro </name>
+	</wpt>
+    
+</gpx>
+
+
